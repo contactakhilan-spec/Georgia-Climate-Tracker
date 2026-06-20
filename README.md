@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack & Methodology
+## Tech Stack & Methodology
 * **Language:** Python 3.x
 * **Machine Learning:** `scikit-learn` (Trained a supervised **Linear Regression model** to calculate multi-decade climate warming coefficients)
 * **Data Engineering:** `pandas` (Utilized optimized block chunking loops to parse heavy raw datasets cleanly)
