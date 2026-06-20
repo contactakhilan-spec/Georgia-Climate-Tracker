@@ -2,7 +2,7 @@
 An independent data science and analytics project designed to clean, process, and visually map long-term localized climate variations across major regional centers in Georgia.
 
 ## 🔗 Live Interactive Dashboard
-👉 **View the Live App:** [Click Here to Open the Interactive Graph](https://contactakhilan-spec.github.io/Georgia-Climate-Tracker/climate_dashboard.html)
+👉 **View the Live App:** https://contactakhilan-spec.github.io/Georgia-Climate-Tracker/climate_dashboard.html
 
 ---
 
